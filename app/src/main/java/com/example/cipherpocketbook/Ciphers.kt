@@ -1,7 +1,5 @@
 package com.example.cipherpocketbook
 
-import com.example.cipherpocketbook.NavScreen
-
 enum class Ciphers(
     val label: String,
     val screen: NavScreen,
